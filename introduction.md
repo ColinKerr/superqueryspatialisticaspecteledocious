@@ -14,8 +14,8 @@ If you are not already signed up for a free iTwin Platform developer account [Si
 
 Once you have an account go to the [registration dashboard](https://www.itwinjs.org/getting-started/registration-dashboard/?tab=1) to add the sample iModels to your demo project.  We will use the `Stadium` sample.
 
-We will be using The [iModel Console](https://imodelconsole.bentley.com), the [iModel Schema Explorer](https://imodelschemaeditor.bentley.com/) and [iTwin Design Review](https://www.bentley.com/en/products/product-line/digital-twins/itwin-design-review).
+We will be using The [iModel Console](https://imodelconsole.bentley.com), and [iTwin Design Review](https://www.bentley.com/en/products/product-line/digital-twins/itwin-design-review).
 
-Another useful tool that we will not be using directly is [iModel Reporter](https://github.com/imodeljs/imodel-reporter) application.
+Other useful tools that we will not be using directly are [iModel Reporter](https://github.com/imodeljs/imodel-reporter) and the [iModel Schema Explorer](https://imodelschemaeditor.bentley.com/).
 
 [Next: Design Review Tips](design-review-tips.md)
